@@ -1,2 +1,4 @@
-# EECS498-Deep-Learning-for-Computer-Vision
-A repository of the assignment solutions for EECS498: Deep Learning for Computer Vision by Prof. Justin Johnson at the University of Michigan..
+# EECS498: Deep Learning for Computer Vision
+
+- **Course Website:** https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+- **Instructor:** [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
