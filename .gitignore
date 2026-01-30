@@ -1,0 +1,14 @@
+# Data and Temp
+VOCdevkit/
+mAP/input/
+mAP/output/
+__pycache__/
+
+# Large Files
+*.pt
+*.pth
+
+# BUT DO NOT IGNORE RESULTS
+!results/
+!results/*.png
+!results/*.txt
