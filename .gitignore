@@ -2,13 +2,18 @@
 VOCdevkit/
 mAP/input/
 mAP/output/
-__pycache__/
 
-# Large Files
+# Python cache
+__pycache__/
+_pycache/
+*.pyc
+
+# Model weights and archives
 *.pt
 *.pth
+*.tar
+*.tar.gz
 
-# BUT DO NOT IGNORE RESULTS
-!results/
-!results/*.png
-!results/*.txt
+# OS junk
+**/.DS_Store
+
