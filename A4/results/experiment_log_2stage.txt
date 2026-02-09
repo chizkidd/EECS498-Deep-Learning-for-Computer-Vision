@@ -1,0 +1,2 @@
+Run at 20260130_173536: score_thresh=0.4, nms_thresh=0.6
+Run at 20260203_113608: score_thresh=0.4, nms_thresh=0.6
