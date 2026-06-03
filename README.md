@@ -1,5 +1,7 @@
 # EECS498: Deep Learning for Computer Vision
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/chizkidd/EECS498-Deep-Learning-for-Computer-Vision%5D)
+
 Course materials and implementations from the University of Michigan's Deep Learning for Computer Vision course.
 
 - **Course Website:** https://web.eecs.umich.edu/~justincj/teaching/eecs498/
